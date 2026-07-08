@@ -1,10 +1,11 @@
-# Academic Exchange Spain — Real Website v2
+# Academic Exchange Spain - Pixel Mockup Clickable v3
 
-Static HTML/CSS website ready for GitHub Pages.
+Sitio estático listo para GitHub Pages.
 
-## Deploy
-Upload all files to the root of your GitHub Pages repository (`website`).
+## Subir a GitHub
+1. Descomprimir este ZIP.
+2. Subir todos los archivos a la raíz del repositorio (`index.html`, `about.html`, etc. + carpeta `assets`).
+3. En GitHub Pages seleccionar branch `main` y carpeta `/root`.
 
-Main page: `index.html`.
-
-All navigation and buttons are clickable.
+## Importante
+Esta versión usa los mockups aprobados como base visual para que se vean idénticos y agrega zonas clickeables para navegación y CTAs.
