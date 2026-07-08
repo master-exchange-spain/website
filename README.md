@@ -1,16 +1,10 @@
-# Academic Exchange Spain — Mockups Identical v1
+# Academic Exchange Spain — Real Website v2
 
-Static GitHub Pages-ready version using the approved mockup images as full-page layouts.
+Static HTML/CSS website ready for GitHub Pages.
 
-## Upload to GitHub Pages
-Upload all files in this folder to the repository root and enable GitHub Pages from the main branch.
+## Deploy
+Upload all files to the root of your GitHub Pages repository (`website`).
 
-Pages included:
-- index.html
-- about.html
-- academic-solutions.html
-- why-spain.html
-- spanish-courses.html
-- student-housing.html
-- contact.html
+Main page: `index.html`.
 
+All navigation and buttons are clickable.
